@@ -1,6 +1,6 @@
 function reverseArray(arr) {
   const copyArr = [...arr];
-  result = copyArr.reverse();
+  return copyArr.reverse();
 }
 
 re; //przykładowy input:
